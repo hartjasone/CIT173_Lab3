@@ -1,0 +1,7 @@
+total 20
+-rw-r--r-- 1 root root   0 Oct 16 03:35 my-files.txt
+-rw-r--r-- 1 root root 817 Oct 16 03:21 my-phonebook.txt
+-rw------- 1 root root 416 Oct 16 03:07 phonebook1.txt
+-rw------- 1 root root 401 Oct 16 03:10 phonebook2.txt
+-rw------- 1 root root 288 Jan 30  2019 phonelisting1.txt
+-rw------- 1 root root 286 Jan 30  2019 phonelisting2.txt
